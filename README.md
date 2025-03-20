@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Zoromino's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoromino)](https://github.com/anuraghazr/github-readme-stats)
+
+
+
