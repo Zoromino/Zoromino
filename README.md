@@ -3,7 +3,7 @@
 👩🏻‍🎓 I am currently studying web development with a focus on e-commerce at Medieinstitutet in Stockholm, Sweden.<br/>
 🧩 My hobbies include swimming, walking, and reading.<br/>
 
-[My Portfolio](https://github.com/Zoromino/Portfolio)
+[My Portfolio](https://zoromino.github.io/Portfolio/)
 
 <br/>
 💻 Tech Stack<br/>
