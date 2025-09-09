@@ -30,3 +30,5 @@
 
 <br/>
 [My Portfolio](https://github.com/Zoromino/Portfolio)
+[OpenAI](https://www.openai.com)
+
