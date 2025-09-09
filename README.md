@@ -3,6 +3,8 @@
 👩🏻‍🎓 I am currently studying web development with a focus on e-commerce at Medieinstitutet in Stockholm, Sweden.<br/>
 🧩 My hobbies include swimming, walking, and reading.<br/>
 
+[My Portfolio](https://github.com/Zoromino/Portfolio)
+
 <br/>
 💻 Tech Stack<br/>
 
@@ -27,8 +29,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=zoromino&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=zoromino&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zoromino&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br/>
-[My Portfolio](https://github.com/Zoromino/Portfolio)
-[OpenAI](https://www.openai.com)
 
