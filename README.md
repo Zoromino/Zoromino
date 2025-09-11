@@ -34,9 +34,9 @@
 
 -> From the zoo project, the zoo with many different animals that need to be fed!
 ![Från the zoo Projekt](Thezoo.png)<br/>
--> When you find an animal you want to feed (it is marked red if it’s hungry), click on the animal’s profile to access the feeding button. When you click it, the animal’s picture turns green to show that feeding is active.
+-> When you find an animal you want to feed (marked red if hungry), click on its profile to access the feeding button. Clicking the button will turn the animal’s picture green, indicating that it has been fed and cannot be fed again until it turns red (hungry) once more.
 ![Från the zoo Projekt](thezoo-djuren.png)<br/>
--> After feeding, it takes a few minutes before the animal can be fed again (the animal’s picture turns yellow when it’s almost time to feed again)!
+-> After feeding, the animal’s picture turns green to show it has been fed. It cannot be fed again until its picture turns red. The picture will turn yellow when it’s almost time to feed again.
 ![Från the zoo Projekt](thezoo-matade.png)<br/>
 ![Från the zoo Projekt](thezoo-matade2.png)
 
