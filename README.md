@@ -38,6 +38,7 @@
 ![Från the zoo Projekt](thezoo-djuren.png)<br/>
 -> After feeding, it takes a few minutes before the animal can be fed again (the animal’s picture turns yellow when it’s almost time to feed again)!
 ![Från the zoo Projekt](thezoo-matade.png)<br/>
+![Från the zoo Projekt](thezoo-matade2.png)
 
 
 
