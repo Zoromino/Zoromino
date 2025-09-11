@@ -33,8 +33,8 @@
 [the-zoo-projekt](https://github.com/Zoromino/the-zoo-Zoromino-main)
 
 ![Från the zoo Projekt](Thezoo.png)
-![](thezoo-djuren.png)
-![](thezoo-matade.png)
+![Från the zoo Projekt](thezoo-djuren.png)
+![Från the zoo Projekt](thezoo-matade.png)
 
 
 
