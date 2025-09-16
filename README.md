@@ -29,9 +29,9 @@
 [the-zoo-projekt](https://github.com/Zoromino/the-zoo-Zoromino-main)
 
 -> From the zoo project, the zoo with many different animals that need to be fed!
-![Från the zoo Projekt](Thezoo.png)<br/>
+![Från the zoo Projekt](Thezoo.png)<br/><br/>
 -> When you find an animal you want to feed (marked red if hungry), click on its profile to access the feeding button. Clicking the button will turn the animal’s picture green, indicating that it has been fed and cannot be fed again until it turns red (hungry) once more.
-![Från the zoo Projekt](thezoo-djuren.png)<br/>
+![Från the zoo Projekt](thezoo-djuren.png)<br/><br/>
 -> After feeding, the animal’s picture turns green to show it has been fed. It cannot be fed again until its picture turns red. The picture will turn yellow when it’s almost time to feed again.
 ![Från the zoo Projekt](thezoo-matade.png)<br/>
 ![Från the zoo Projekt](thezoo-matade2.png)
