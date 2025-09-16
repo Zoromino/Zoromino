@@ -26,10 +26,6 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=zoromino&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zoromino&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zoromino&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 [the-zoo-projekt](https://github.com/Zoromino/the-zoo-Zoromino-main)
 
 -> From the zoo project, the zoo with many different animals that need to be fed!
